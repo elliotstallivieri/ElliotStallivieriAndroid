@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_commander">Commander via Internet</string>
+    <string name="button_scanner">Scanner les périphériques</string>
+    <string name="scan_ended">scan terminé</string>
+    <string name="connexion_str">connexion en cours à : %1$s</string>
+    <string name="connected_to">connecté à : %1$s</string>
+    <string name="list" />
+    <string name="uuid_not_found">uuid not found</string>
+    <string name="not_connected">non connecté</string>
+    <string name="enable_ble_notifications">notifications activées</string>
+</resources>
